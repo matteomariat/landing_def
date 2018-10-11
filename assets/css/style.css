@@ -42,7 +42,7 @@ img { max-width: 100%; }
 ::selection { background: #9b59b6; color: #fff; text-shadow: none; }
 
 
-/***** General style, all sections *****/
+/***** Style général *****/
 
 .section-container {
     margin: 0 auto;
@@ -125,34 +125,6 @@ img { max-width: 100%; }
 	background: #333; background: rgba(0, 0, 0, 0.4); outline: 0; color: #fff; box-shadow: none;
 }
 
-.btn-link-3 {
-	display: inline-block;
-	height: 50px;
-	margin: 0 5px;
-	padding: 0 28px;
-	background: none;
-	border: 0;
-	border-bottom: 2px solid #9b59b6;
-	font-size: 15px;
-    font-weight: 600;
-    line-height: 48px;
-    color: #9b59b6;
-    border-radius: 0;
-    transition: all .3s;
-}
-.btn-link-3:hover, .btn-link-3:focus, .btn-link-3:active, .btn-link-3:active:focus,
-.btn-link-3.btn-primary:not(:disabled):not(.disabled):active,
-.btn-link-3.btn-primary:not(:disabled):not(.disabled):active:focus {
-	padding: 0 10px;
-	background: none;
-	border: 0;
-	border-bottom: 2px solid #9b59b6;
-	outline: 0;
-	color: #9b59b6;
-	box-shadow: none;
-}
-
-
 /***** Divider *****/
 
 .divider-1 span {
@@ -162,7 +134,7 @@ img { max-width: 100%; }
 }
 
 
-/***** Top menu *****/
+/***** Menu *****/
 
 .navbar {
 	background: #444;
@@ -209,7 +181,7 @@ img { max-width: 100%; }
 }
 
 
-/***** Services *****/
+/***** Fonctionnalités *****/
 
 .services-box {
 	padding-top: 30px;
@@ -277,13 +249,6 @@ img { max-width: 100%; }
 	border-radius: 4px;
 }
 
-
-
-/***** Call to action *****/
-
-.call-to-action-container .section-bottom-button {
-	padding-top: 30px;
-}
 
 /***** Footer *****/
 
