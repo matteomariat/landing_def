@@ -50,14 +50,14 @@ jQuery(document).ready(function() {
 });
 
 
-jQuery(window).load(function() {
-	
-	/*
-		Hidden images
-	*/
-	$(".testimonial-image img").attr("style", "width: auto !important; height: auto !important;");
-	
-});
+/*
+        test pour ouvrir nouvel onglet
+    */
+
+/*$(".fab fa-app-store").click(window.open('https://www.appstore.com', '_blank'));{
+}
+
+
 
 /* backstretch pour top content si besoin $('.top-content').backstretch("assets/img/backgrounds/1.jpg");
 $('.call-to-action-container').backstretch("assets/img/backgrounds/1.jpg");

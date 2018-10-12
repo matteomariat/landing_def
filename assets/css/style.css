@@ -211,15 +211,23 @@ img { max-width: 100%; }
 	text-align: center;
 }
 
-.download-box .download-box-icon {
+.download-box .download-box-icon { 
 	width: 90px;
 	height: 90px;
 	margin: 0 auto;
     font-size: 40px;
-    color: #ab2346;
+    color: #ab2346; 
     line-height: 80px;
     text-align: center;
     border-radius: 28px;   
+}
+
+.fa-google-play {
+	color: #ab2346;
+}
+
+.fa-app-store {
+	color: #ab2346;
 }
 
 /***** A propos *****/
